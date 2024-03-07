@@ -1,4 +1,4 @@
-// create web serwer for comment
+// Create web server
 
 var express = require('express');
 var router = express.Router();
